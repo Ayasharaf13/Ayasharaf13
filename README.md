@@ -1,10 +1,10 @@
 <div align="center">
 
   <h1>Aya Khaled</h1>
-  <h3>Junior Android Developer</h3>
+  <h3>Junior Android Developer | Self-Taught Software Engineer</h3>
 
   <p>
-    Self-taught Software Engineer building modern, clean, and reliable Android applications.
+    Self-taught developer building clean, modern, and reliable Android applications.
   </p>
 
   <p>
@@ -22,75 +22,38 @@
 
 ## 🎯 Profile Summary
 
-* **Education:** CS Diploma Student (Cairo University) | Psychology Graduate.
-* **Training:** ITI Intensive Android Development Track.
-* **Core Strengths:** Clean Architecture, Kotlin, Jetpack Compose, Unit Testing.
+* 💡 **Background:** Self-Taught Software Engineer | CS Diploma Student (Cairo University) | Psychology Graduate.
+* 🎓 **Training:** ITI Intensive Android Development Program.
+
 
 ---
 
-## 🛠 Skills
+## 🛠 Tech Stack
 
 | Area | Technologies |
 | :--- | :--- |
 | **Languages** | Kotlin, Java, C++ |
-| **UI** | Jetpack Compose, XML |
+| **UI Frameworks** | Jetpack Compose, Android XML |
 | **Architecture** | MVVM, MVI, MVP, Clean Architecture, SOLID |
 | **Libraries** | Coroutines, Flow, Room, Retrofit, RxJava, Firebase |
 | **Tooling** | Unit Testing, Git, GitHub |
 
 ---
 
-## 📱 Projects
+## 📱 Featured Projects
 
-<div align="center">
+* ⏱️ **<a href="https://github.com/your-username/Time-Estimation-App">Time Estimation App</a>**  
+  `Kotlin` • `Jetpack Compose` • `MVI` • `Room`  
+  *Task & workout duration estimation tool.*
 
-  <!-- Project 1: Jetpack Compose + MVI -->
-  <p>
-    <strong>⏱️ <a href="https://github.com/your-username/Time-Estimation-App">Time Estimation App</a></strong>
-    <br/>
-    <sub>Kotlin • Jetpack Compose • MVI • Room</sub>
-  </p>
-  <a href="https://github.com/your-username/Time-Estimation-App">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=Time-Estimation-App&theme=dark" alt="Time Estimation App"/>
-  </a>
-  
-  <br/><br/>
+* 🛒 **<a href="https://github.com/your-username/Shop-Nest-App">Shop Nest App</a>**  
+  `Kotlin` • `MVVM` • `Coroutines` • `Unit Testing`
 
-  <!-- Project 2: E-Commerce + Testing -->
-  <p>
-    <strong>🛒 <a href="https://github.com/your-username/Shop-Nest-App">Shop Nest App</a></strong>
-    <br/>
-    <sub>Kotlin • MVVM • Coroutines • Unit Testing</sub>
-  </p>
-  <a href="https://github.com/your-username/Shop-Nest-App">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=Shop-Nest-App&theme=dark" alt="Shop Nest App"/>
-  </a>
+* 🌤️ **<a href="https://github.com/your-username/Weather-Forecasts-App">Weather Forecasts App</a>**  
+  `Kotlin` • `MVVM` • `Retrofit` • `REST API`
 
-  <br/><br/>
-
-  <!-- Project 3: Weather + REST API -->
-  <p>
-    <strong>🌤️ <a href="https://github.com/your-username/Weather-Forecasts-App">Weather Forecasts App</a></strong>
-    <br/>
-    <sub>Kotlin • MVVM • Retrofit • REST API</sub>
-  </p>
-  <a href="https://github.com/your-username/Weather-Forecasts-App">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=Weather-Forecasts-App&theme=dark" alt="Weather Forecasts App"/>
-  </a>
-
-  <br/><br/>
-
-  <!-- Project 4: Java + MVP -->
-  <p>
-    <strong>🍲 <a href="https://github.com/your-username/Food-Planner-App">Food Planner App</a></strong>
-    <br/>
-    <sub>Java • MVP Architecture • Room • Retrofit</sub>
-  </p>
-  <a href="https://github.com/your-username/Food-Planner-App">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=Food-Planner-App&theme=dark" alt="Food Planner App"/>
-  </a>
-
-</div>
+* 🍲 **<a href="https://github.com/your-username/Food-Planner-App">Food Planner App</a>**  
+  `Java` • `MVP` • `Room` • `Retrofit`
 
 ---
 
