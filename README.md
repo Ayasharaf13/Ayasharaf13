@@ -34,7 +34,7 @@
 | :--- | :--- |
 | **Languages** | Kotlin, Java, C++ |
 | **UI Frameworks** | Jetpack Compose, Android XML |
-| **Architecture & Design** | MVVM, MVI, MVP, Clean Architecture, SOLID, OOD |
+| **Architecture & Design** | MVVM, MVI, MVP, Clean Architecture, SOLID |
 | **CS Fundamentals** | Data Structures, Algorithms, OOP |
 | **Libraries** | Coroutines, Flow, Room, Retrofit, RxJava, Firebase |
 | **Tooling & Quality** | Unit Testing, Git, GitHub |
@@ -43,17 +43,17 @@
 
 ## 📱 Featured Projects
 
-* ⏱️ **<a href="https://github.com/your-username/Time-Estimation-App">Time Estimation App</a>**  
+* ⏱️ **<a href="https://github.com/Ayasharaf13/time-estimation-app">Time Estimation App</a>**  
   `Kotlin` • `Jetpack Compose` • `MVI` • `Room`  
   *Task & workout duration estimation tool.*
 
-* 🛒 **<a href="https://github.com/your-username/Shop-Nest-App">Shop Nest App</a>**  
+* 🛒 **<a href="https://github.com/Ayasharaf13/Shope-Nest">Shop Nest App</a>**  
   `Kotlin` • `MVVM` • `Coroutines` • `Unit Testing`
 
-* 🌤️ **<a href="https://github.com/your-username/Weather-Forecasts-App">Weather Forecasts App</a>**  
+* 🌤️ **<a href="https://github.com/Ayasharaf13/WeatherForecasts-Updated">Weather Forecasts App</a>**  
   `Kotlin` • `MVVM` • `Retrofit` • `REST API`
 
-* 🍲 **<a href="https://github.com/your-username/Food-Planner-App">Food Planner App</a>**  
+* 🍲 **<a href="https://github.com/Ayasharaf13/food-planner-app">Food Planner App</a>**  
   `Java` • `MVP` • `Room` • `Retrofit`
 
 ---
