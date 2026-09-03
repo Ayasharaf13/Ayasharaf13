@@ -1,7 +1,7 @@
 <div align="center">
 
   <h1>Aya Khaled</h1>
-  <h3>Junior Android Developer | Self-Taught Software Engineer</h3>
+  <h3>Junior Android Developer </h3>
 
   <p>
     Self-taught developer building clean, modern, and reliable Android applications.
@@ -34,9 +34,10 @@
 | :--- | :--- |
 | **Languages** | Kotlin, Java, C++ |
 | **UI Frameworks** | Jetpack Compose, Android XML |
-| **Architecture** | MVVM, MVI, MVP, Clean Architecture, SOLID |
+| **Architecture & Design** | MVVM, MVI, MVP, Clean Architecture, SOLID, OOD |
+| **CS Fundamentals** | Data Structures, Algorithms, OOP |
 | **Libraries** | Coroutines, Flow, Room, Retrofit, RxJava, Firebase |
-| **Tooling** | Unit Testing, Git, GitHub |
+| **Tooling & Quality** | Unit Testing, Git, GitHub |
 
 ---
 
